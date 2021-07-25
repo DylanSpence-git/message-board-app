@@ -1,0 +1,24 @@
+{
+  "name": "ics221-mb-app",
+  "version": "0.1.1",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "bootstrap": "^4.6.0",
+    "formik": "^2.2.6",
+    "jquery": "^3.5.1",
+    "jwt-decode": "^3.1.2",
+    "ky": "^0.25.1",
+    "ky-universal": "^0.8.2",
+    "next": "10.0.6",
+    "popper.js": "^1.16.1",
+    "react": "17.0.1",
+    "react-bootstrap": "^1.4.3",
+    "react-dom": "17.0.1",
+    "yup": "^0.32.8"
+  }
+}
